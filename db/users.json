@@ -7,15 +7,23 @@
     "telegram_username": "somaaaf",
     "telegram_first_name": "Salma",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_37.jpg",
-    "session_id": "b138c481-cb74-4c0d-bbaa-0da379888b64",
+    "session_id": "50b3965f-0fe7-47d8-8c01-a92b7bef168b",
     "created_at": "2026-05-10T16:19:16.508220",
     "verified": true,
-    "last_login": "2026-05-11T07:22:25.092463",
+    "last_login": "2026-05-11T23:49:58.378247",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
       "it",
-      "statistics"
+      "statistics",
+      "math",
+      "english",
+      "physics_electric",
+      "chemistry",
+      "physics_mechanic",
+      "biology",
+      "linguistic_studies",
+      "literary_studies"
     ],
     "server_num": 21
   }
